@@ -1,0 +1,22 @@
+PyAngela Application || @Copyrighted by Bishnudev Khutia
+
+@Installation
+		1. Make Sure Python3 is installed in your Machine
+		2. Open the PyAngela Directory in VS Code
+		3. Open a new Terminal and run following commands one after one
+			i> pip install tkinter
+			ii> pip install pyttsx3
+			iii> pip install playsound
+			iv> pip install pillow
+			v> pip install gtts
+		4. Open the PyAngela.py file and go to down_audio() function section
+		5. Replace <C:\Users\Bishnudev\Dropbox\PC\Desktop\Pyangela\Readme> to <Your Tkinter Path> - Required
+		6. Now after installation of this components, run the application
+		7. Type your preffered text in the input area
+		8. Click on Convert button to make the text to Speech
+		9. Wait for the completion process [ May some low-end system get crashed - Be patience ]
+		10. Click the Download button to go to the Audio Directory
+
+@Features
+		1. Convert Text to Speech
+		2. Save the Audio Speech in your System
